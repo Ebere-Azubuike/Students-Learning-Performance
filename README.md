@@ -1,4 +1,4 @@
-# Students-Learning-Performance
+# Students-Learning-Performance using Power BI 
 This project explains students' learning performance (E-learning in focus) before and after the pandemic.
 
 A total of 1000 students were surveyed through a questionnaire. Actionable insights from the data were to answer questions on;
