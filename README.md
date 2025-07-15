@@ -7,10 +7,10 @@ A total of 1000 students were surveyed through a questionnaire. Actionable insig
 
 
 # Project Objectives
-To determine the distribution of gender within the dataset
-To identify the study tools commonly used by the respondents?
-To accertain the distribution of education levels among the respondents?
-To know if there is any positive or negative change in students' scores before and after pandemic
+1. To determine the distribution of gender within the dataset
+2. To identify the study tools commonly used by the respondents
+3. To accertain the distribution of education levels among the respondents
+4. To know if there is any positive or negative change in students' scores before and after pandemic
 
 # Data Sourcing
 A total of 1000 students from different levels of education  were surveyed through a questionnaire from April to June 2020
@@ -36,7 +36,7 @@ The dataset included these key attributes
 <img width="1866" height="753" alt="image" src="https://github.com/user-attachments/assets/f3028a02-c972-40c1-8349-a71dbc188dd1" />
 
 # Data Analysis & Visualization
-I used the DAX function to query my data by running some evaluations. 
+I used the DAX function to query the data by running some evaluations. 
 
 For example, fetching top 100 students etc.
 <img width="1530" height="919" alt="image" src="https://github.com/user-attachments/assets/b8f87e48-0b85-4c5c-974d-e69277b093f0" />
