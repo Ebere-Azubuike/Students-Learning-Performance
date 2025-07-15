@@ -1,7 +1,7 @@
 # Students-Learning-Performance using Power BI 
 This project explains students' learning performance (Online or E-learning in focus) before and after the pandemic.
 
-A total of 1000 students were surveyed through a questionnaire. Actionable insights from the data were to answer questions on;
+A total of 1000 students were surveyed through a questionnaire. Actionable insights from the data were to used to address some specific questions
 
 
 # Project Objectives
@@ -40,8 +40,9 @@ For example, fetching top 100 students etc.
 <img width="1530" height="919" alt="image" src="https://github.com/user-attachments/assets/b8f87e48-0b85-4c5c-974d-e69277b093f0" />
 
 For the visualization I chose to create a simple and easy-to-understand visuals. To reflect the academic world,
-I used white, red and blue colors. The idea behind my choice of color resonanted from the fact that in the academic setting, white papers are always used for examinations or note taking, school teachers mark scripts with red pen, while students often use the blue pen to write.
-These colors are also bold and eye-catching, which helped to make the visuals more memorable, making it easier for a lay man to quickly understand it in just a glimpse.
+I used white, red and blue colors. 
+The idea behind my choice of color resonanted from the fact that in the academic setting, white papers are always used for examinations or note taking, school teachers mark scripts with red pen, while students often use the blue pen to write.
+These colors are also bold and eye-catching, which helps to make visuals more memorable, making it easier for a lay man to quickly understand it in just a glimpse.
 
 I created a number of visuals to show the average scores, gender, level of education and study tools.
 
@@ -79,6 +80,11 @@ BSc. (12%), Associate degree holders (22%), Diploma (20%), College certificate h
 # Here's the dashboard i came up with
 <img width="1207" height="665" alt="image" src="https://github.com/user-attachments/assets/a7fb5240-1e55-4f42-9f38-dac93ce57e63" />
 
-# Conclusion
-In summary, the average score of students before the pandemic (66.09) slightly increased after the pandemic (69.17). which signifies that students' performance had a gradual boost during the pandemic as a result of e-learning implementation.
+# Conclusion & Recommendations
+1. In summary, the average score of students before the pandemic (66.09) slightly increased after the pandemic (69.17). which signifies that students' performance had a gradual boost during the pandemic as a result of e-learning implementation.
+
+2. Considering the positive on the performance of students using e-learning tools during pandemic, resources should be deployed to make advanced learning tools like laptops and wireless networks available for students.
+
+3. It is evident that students complain of high stress levels during physical classes, academic tutors should make the welfare of learners a paramount piriority.
+
 
