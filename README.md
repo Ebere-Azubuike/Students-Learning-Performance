@@ -1,14 +1,27 @@
 # Students-Learning-Performance using Power BI 
-This project explains students' learning performance (E-learning in focus) before and after the pandemic.
+This project explains students' learning performance (Online or E-learning in focus) before and after the pandemic.
 
 A total of 1000 students were surveyed through a questionnaire. Actionable insights from the data were to answer questions on;
 
-The distribution of gender within the dataset?
-Which tool (Desktop, Mobile, Tablet, Laptop) is most commonly used by the respondents?
-What is the distribution of education levels among the respondents?
-How does the mode of test administration (online/offline) relate to the scores before and after the pandemic?
-The average change in score (delta) before and after the pandemic for each level of education?
 
+# Project Objectives
+To determine the distribution of gender within the dataset
+To identify the study tools commonly used by the respondents?
+To accertain the distribution of education levels among the respondents?
+To know if there is any positive or negative change in students' scores before and after pandemic
+
+# Data Sourcing
+A total of 1000 students from different levels of education  were surveyed through a questionnaire from April to June 2020
+
+# Data Cleaning/transformation
+Micosoft Excel was used to clean the data, trim spaces and replace some attributes, the data was then loaded and into Power Bi and further transformations were done using Power Query.
+
+Some applied steps included:
+1. Making first role headers
+2. Changing data types
+3. Creating new columns for aggregate scores and score changes
+
+<img width="1866" height="753" alt="image" src="https://github.com/user-attachments/assets/f3028a02-c972-40c1-8349-a71dbc188dd1" />
 
 The gender distribution had 518 (52%) females  to 482 (48%) males.
 
