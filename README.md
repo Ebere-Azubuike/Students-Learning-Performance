@@ -1,5 +1,7 @@
 # Students-Learning-Performance using Power BI 
-This project explains students' learning performance (Online or E-learning in focus) before and after the pandemic.
+This project explains students' learning performance before and after the pandemic.
+
+Before the pandemic we had more of physical classes, however during and after the pandemic we had more of online classes
 
 A total of 1000 students were surveyed through a questionnaire. Actionable insights from the data were to used to address some specific questions
 
